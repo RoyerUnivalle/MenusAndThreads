@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_bad_thread"
+        android:title="Bad Thread">
+    </item>
+    <item
+        android:id="@+id/item_good_thread"
+        android:title="Good Thread">
+    </item>
+    <item
+        android:id="@+id/item1"
+        android:title="Without action"
+        android:icon="@drawable/ic_launcher_background">
+    </item>
+</menu>
